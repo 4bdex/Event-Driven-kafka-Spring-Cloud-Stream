@@ -1,0 +1,13 @@
+package ma.enset.event_driven_kafka_spring_cloud_stream;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EventDrivenKafkaSpringCloudStreamApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
